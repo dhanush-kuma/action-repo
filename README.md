@@ -1,2 +1,2 @@
 # action-repo
-test 2
+test db write
